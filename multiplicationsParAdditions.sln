@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "multiplicationsParAdditions", "multiplicationsParAdditions\multiplicationsParAdditions.csproj", "{90912DF6-05D5-401B-A18E-E19B7488BAF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90912DF6-05D5-401B-A18E-E19B7488BAF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90912DF6-05D5-401B-A18E-E19B7488BAF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90912DF6-05D5-401B-A18E-E19B7488BAF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90912DF6-05D5-401B-A18E-E19B7488BAF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
